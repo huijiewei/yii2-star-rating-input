@@ -1,0 +1,8 @@
+.rating-input .fa {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.rating-input .fa-star {
+    color: #e3cf7a;
+}
